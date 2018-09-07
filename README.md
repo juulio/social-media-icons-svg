@@ -1,12 +1,12 @@
 ## HTML template with SVG icons for social media.
 
-This file includes an icon for
+The social.html file includes 4 SVG code icons
 - Facebook
 - Instagram
 - Twitter
 - Youtube
 
-You can paint this icons using CSS Fill property.
+You can paint them and add CSS hover state using the CSS Fill property.
 
 Example from CSS-Tricks website https://css-tricks.com/almanac/properties/f/fill/
 
